@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ferrecasa.credits", "name" : "_id_" }, { "v" : 1, "key" : { "counter" : 1 }, "unique" : true, "ns" : "ferrecasa.credits", "name" : "counter_1", "background" : true } ] }

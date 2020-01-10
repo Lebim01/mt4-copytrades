@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "metatrader4": "^1.0.2",
     "mt4-zmq-bridge": "^1.1.0"
   },
   "devDependencies": {
