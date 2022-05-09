@@ -1,1 +1,0 @@
-{ "options" : { "create" : "entries" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "ferrecasa.entries", "name" : "_id_" } ] }

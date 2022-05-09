@@ -1,1 +1,0 @@
-{ "options" : { "create" : "system.version" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "admin.system.version", "name" : "_id_" }, { "v" : 1, "key" : { "version" : 1 }, "ns" : "admin.system.version", "name" : "incompatible_with_version_32" } ] }
